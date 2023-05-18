@@ -1,0 +1,17 @@
+body {
+    background-color: #9e1287;
+    color: #DFFF00;
+    
+}
+.about {
+    color: rgb(1, 122, 155) ;
+}
+.ptag {
+    font-size: 25px;
+}
+.h1 {
+    color: aqua;
+    width: 40%;
+    margin: auto;
+    height: 100px;
+}
